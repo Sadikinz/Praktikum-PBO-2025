@@ -1,4 +1,4 @@
-<img width="328" height="399" alt="Screenshot 2025-09-16 160752" src="https://github.com/user-attachments/assets/a4b769cb-ae18-4bc6-be3b-5a1e10594342" /># Muhammad Sadikin Samir // 2409116031
+# Muhammad Sadikin Samir // 2409116031
 # Sistem Informasi A
 
 ## ===========================================================
