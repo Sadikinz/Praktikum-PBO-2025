@@ -19,3 +19,6 @@ Penerapan Setter dan Getter pada file konser.java
 Penerapan inheritance yaitu konser.java sebagai Superclass sedangkan konserLokal.java dan konserNasional.java sebagai Subclass
 
 Penerapan Overriding pada filekonserNasional.java sebagai Subclass
+
+## ===========================================================
+## Dokumentasi Program
