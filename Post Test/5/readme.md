@@ -12,6 +12,8 @@ Manajemen Event Konser adalah program java yang dirancang untuk mmembantu pengel
 
 Penerapan JDBC pada konserService.java, file JDBC.java dan file koneksi.java. salah satu contoh pada file koneksi.java di baris 14-15
 
+Penerapan ORM pada konser.java dan konserService.
+
 Penerapan abstraction class ada pada Konser.java dan interface method ada pada Diskon.java untuk penerapaanya terdapat pada konserNasional.java dan konserLokal.java
 
 Penerapan polymorphism Overloading ada pada konserService.java tepatnya pada method tambah() dan tambah(konser kr), dan untuk Overriding ada pada method lihatKonser() diclass konser dan override di class konserNasional.java dan konserLoka.java
