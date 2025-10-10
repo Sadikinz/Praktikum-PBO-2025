@@ -25,33 +25,6 @@ Penerapan inheritance yaitu konser.java sebagai Superclass sedangkan konserLokal
 Penerapan Overriding pada filekonserNasional.java sebagai Subclass
 
 ## ===========================================================
-## Dokumentasi Program
-
-<img width="808" height="520" alt="diskon,java" src="https://github.com/user-attachments/assets/7af334f7-02be-411b-9a24-2d88f557b4eb" />
-
-Diskon.java
-
-<img width="1846" height="1204" alt="konserlokal,java" src="https://github.com/user-attachments/assets/350c8276-f8c1-4c9a-b6f1-394dde433dd0" />
-
-konserlokal.java
-
-<img width="1894" height="1242" alt="konserNasional,java" src="https://github.com/user-attachments/assets/587e60ba-5445-4ad8-a752-1375b3af4d9e" />
-
-konserNasional.java
-
-<img width="1766" height="2192" alt="konser,java" src="https://github.com/user-attachments/assets/99f4bf98-fbb5-4a8a-8ff2-edf814c8075c" />
-
-konser.java
-
-<img width="1684" height="5992" alt="konserservice,java" src="https://github.com/user-attachments/assets/b88655e7-d4a5-4c73-9e30-36deb90596c9" />
-
-konserservice.java
-
-<img width="1878" height="2116" alt="main,java" src="https://github.com/user-attachments/assets/92ab6b2f-0262-47d5-b8f8-307c17c2bf30" />
-
-main.java
-
-## ===========================================================
 ## Penjelasan Alur Program
 
 <img width="346" height="195" alt="image" src="https://github.com/user-attachments/assets/7b093f7e-5ce7-4f9f-b9c8-ef5b93d61b0c" />
